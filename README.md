@@ -40,6 +40,16 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/liucf1224-del">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=liucf1224-del&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=liucf1224-del&layout=compact&langs_count=8&theme=dracula"/>
+</a>
+</p>
+
+
 ### 其他技能
 AI模块开发、PS/PR工具、简单逆向工程
 
